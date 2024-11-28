@@ -1,4 +1,4 @@
-# getx_practise
+# getx_route_management
 
   My journey with learning getX.
 
